@@ -39,6 +39,5 @@ With the help of topic modelling, you will be able to map each ticket onto its r
 
 Note: Once you have finalised the clusters/categories for customer complaints, the next step is to create a data set that contains the complaints and labels (which you found using NMF). This labelled data set will be used for model building using supervised learning. 
 
-You need to try at least any three models from logistic regression, naive Bayes, decision tree and random forest. 
+I have tried logistic regression, naive Bayes, decision tree and random forest. 
 
-You need to select the model that performs the best according to the evaluation metrics.
