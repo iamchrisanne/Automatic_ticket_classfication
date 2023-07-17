@@ -16,24 +16,24 @@ Mortgages/loans
 Others
 
 With the help of topic modelling, you will be able to map each ticket onto its respective department/category. You can then use this data to train any supervised model such as logistic regression, decision tree or random forest. Using this trained model, you can classify any new customer complaint support ticket into its relevant department.
-# Expected tasks
-You need to perform the following eight major tasks to complete the assignment:
+# Performed tasks
 
-Data loading
 
-Text preprocessing
+* Data loading
 
-Exploratory data analysis (EDA)
+* Text preprocessing
 
-Feature extraction
+* Exploratory data analysis (EDA)
 
-Topic modelling 
+* Feature extraction
 
-Model building using supervised learning
+* Topic modelling 
 
-Model training and evaluation
+* Model building using supervised learning
 
-Model inference
+* Model training and evaluation
+
+* Model inference
 
  
 
